@@ -6,6 +6,7 @@ Assistente de Meta para jogos — Pergunte sobre estratégias, builds e dicas pa
 
 ![Preview do Projeto](./assets/logo.png)
 
+<a href="https://crazyfoxy021.github.io/nlw-agents/"> Visite a página aqui!</a>
 ## ✨ Funcionalidades
 
 - Consulta de estratégias, builds e dicas para jogos populares.
@@ -34,7 +35,3 @@ Assistente de Meta para jogos — Pergunte sobre estratégias, builds e dicas pa
 ├── script.js
 └── README.md
 ```
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
